@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/login-auth-app/static/css/main.5f361e03.chunk.css",
-    "main.js": "/login-auth-app/static/js/main.bef9d8b6.chunk.js",
-    "main.js.map": "/login-auth-app/static/js/main.bef9d8b6.chunk.js.map",
+    "main.js": "/login-auth-app/static/js/main.f65a9a47.chunk.js",
+    "main.js.map": "/login-auth-app/static/js/main.f65a9a47.chunk.js.map",
     "runtime-main.js": "/login-auth-app/static/js/runtime-main.fab16189.js",
     "runtime-main.js.map": "/login-auth-app/static/js/runtime-main.fab16189.js.map",
     "static/js/2.68cda3af.chunk.js": "/login-auth-app/static/js/2.68cda3af.chunk.js",
     "static/js/2.68cda3af.chunk.js.map": "/login-auth-app/static/js/2.68cda3af.chunk.js.map",
     "index.html": "/login-auth-app/index.html",
-    "precache-manifest.f73f154366ff9594ff26d63c277e6ea0.js": "/login-auth-app/precache-manifest.f73f154366ff9594ff26d63c277e6ea0.js",
+    "precache-manifest.38df84f320788aef016bddb792c93be0.js": "/login-auth-app/precache-manifest.38df84f320788aef016bddb792c93be0.js",
     "service-worker.js": "/login-auth-app/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/login-auth-app/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.68cda3af.chunk.js.LICENSE.txt": "/login-auth-app/static/js/2.68cda3af.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fab16189.js",
     "static/js/2.68cda3af.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.bef9d8b6.chunk.js"
+    "static/js/main.f65a9a47.chunk.js"
   ]
 }
