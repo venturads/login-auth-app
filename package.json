@@ -1,6 +1,7 @@
 {
   "name": "login-auth-app",
   "version": "0.1.0",
+  "homepage": "http://venturads.github.io/login-auth-app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
